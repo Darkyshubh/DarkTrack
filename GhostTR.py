@@ -260,7 +260,10 @@ def option():
     # BANNER TOOLS
     clear()
     stderr.writelines(f"""
-       ᗪᗩᖇᛕᔕᕼᑌᗷᕼ
+                       __    
+(\,------------'()'--o
+ (_    _SHUBH_    /~" 
+  (_)_)      (_)_)    
               {Wh}[ + ]  C O D E   B Y  SHUBH [ + ]
     """)
 
